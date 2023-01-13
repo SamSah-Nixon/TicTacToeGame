@@ -1,6 +1,10 @@
+package src.tictactoe;
+
+import src.Board;
+
 import java.util.Arrays;
 
-public class TicTacBoard {
+public class TicTacBoard implements Board {
     private char[][] board;
     int size;
 
