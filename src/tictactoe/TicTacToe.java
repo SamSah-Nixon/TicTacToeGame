@@ -1,3 +1,5 @@
+package src.tictactoe;
+
 import java.util.Scanner;
 
 public class TicTacToe {
